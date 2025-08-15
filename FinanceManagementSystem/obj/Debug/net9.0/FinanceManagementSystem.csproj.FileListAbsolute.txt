@@ -1,0 +1,14 @@
+C:\Users\ampah\Desktop\DCIT 318 ASSIGNMENTS\dcit318-assignment3-11259806\FinanceManagementSystem\bin\Debug\net9.0\FinanceManagementSystem.exe
+C:\Users\ampah\Desktop\DCIT 318 ASSIGNMENTS\dcit318-assignment3-11259806\FinanceManagementSystem\bin\Debug\net9.0\FinanceManagementSystem.deps.json
+C:\Users\ampah\Desktop\DCIT 318 ASSIGNMENTS\dcit318-assignment3-11259806\FinanceManagementSystem\bin\Debug\net9.0\FinanceManagementSystem.runtimeconfig.json
+C:\Users\ampah\Desktop\DCIT 318 ASSIGNMENTS\dcit318-assignment3-11259806\FinanceManagementSystem\bin\Debug\net9.0\FinanceManagementSystem.dll
+C:\Users\ampah\Desktop\DCIT 318 ASSIGNMENTS\dcit318-assignment3-11259806\FinanceManagementSystem\bin\Debug\net9.0\FinanceManagementSystem.pdb
+C:\Users\ampah\Desktop\DCIT 318 ASSIGNMENTS\dcit318-assignment3-11259806\FinanceManagementSystem\obj\Debug\net9.0\FinanceManagementSystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ampah\Desktop\DCIT 318 ASSIGNMENTS\dcit318-assignment3-11259806\FinanceManagementSystem\obj\Debug\net9.0\FinanceManagementSystem.AssemblyInfoInputs.cache
+C:\Users\ampah\Desktop\DCIT 318 ASSIGNMENTS\dcit318-assignment3-11259806\FinanceManagementSystem\obj\Debug\net9.0\FinanceManagementSystem.AssemblyInfo.cs
+C:\Users\ampah\Desktop\DCIT 318 ASSIGNMENTS\dcit318-assignment3-11259806\FinanceManagementSystem\obj\Debug\net9.0\FinanceManagementSystem.csproj.CoreCompileInputs.cache
+C:\Users\ampah\Desktop\DCIT 318 ASSIGNMENTS\dcit318-assignment3-11259806\FinanceManagementSystem\obj\Debug\net9.0\FinanceManagementSystem.dll
+C:\Users\ampah\Desktop\DCIT 318 ASSIGNMENTS\dcit318-assignment3-11259806\FinanceManagementSystem\obj\Debug\net9.0\refint\FinanceManagementSystem.dll
+C:\Users\ampah\Desktop\DCIT 318 ASSIGNMENTS\dcit318-assignment3-11259806\FinanceManagementSystem\obj\Debug\net9.0\FinanceManagementSystem.pdb
+C:\Users\ampah\Desktop\DCIT 318 ASSIGNMENTS\dcit318-assignment3-11259806\FinanceManagementSystem\obj\Debug\net9.0\FinanceManagementSystem.genruntimeconfig.cache
+C:\Users\ampah\Desktop\DCIT 318 ASSIGNMENTS\dcit318-assignment3-11259806\FinanceManagementSystem\obj\Debug\net9.0\ref\FinanceManagementSystem.dll
