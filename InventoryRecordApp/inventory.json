@@ -1,0 +1,32 @@
+[
+  {
+    "Id": 1,
+    "Name": "LED Bulb",
+    "Quantity": 50,
+    "DateAdded": "2025-08-15T09:59:49.5583563+00:00"
+  },
+  {
+    "Id": 2,
+    "Name": "AA Batteries",
+    "Quantity": 120,
+    "DateAdded": "2025-08-15T09:59:49.5604224+00:00"
+  },
+  {
+    "Id": 3,
+    "Name": "USB Cable",
+    "Quantity": 35,
+    "DateAdded": "2025-08-15T09:59:49.5604239+00:00"
+  },
+  {
+    "Id": 4,
+    "Name": "Notebook",
+    "Quantity": 80,
+    "DateAdded": "2025-08-15T09:59:49.560424+00:00"
+  },
+  {
+    "Id": 5,
+    "Name": "Stapler",
+    "Quantity": 15,
+    "DateAdded": "2025-08-15T09:59:49.5604241+00:00"
+  }
+]
