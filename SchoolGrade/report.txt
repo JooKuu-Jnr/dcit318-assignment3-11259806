@@ -1,0 +1,3 @@
+﻿Ampah Kuuku (ID: 101): Score = 84, Grade = A
+Agyensaim Kweku (ID: 102): Score = 73, Grade = B
+Agyemang Badu (ID: 103): Score = 49, Grade = F

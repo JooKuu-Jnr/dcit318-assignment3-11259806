@@ -1,0 +1,3 @@
+﻿101,Ampah Kuuku,84
+102,Agyensaim Kweku,73
+103,Agyemang Badu,49
